@@ -1,0 +1,2 @@
+# wsl-bootstrap
+WSL setup.
